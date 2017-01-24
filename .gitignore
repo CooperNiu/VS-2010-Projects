@@ -18,3 +18,9 @@ MyFirstC++Project/MyFirstC++Project/stdafx.h
 *.suo
 *.lastbuildstate
 MyFirstC++Project/MyFirstC++Project/stdafx.cpp
+*.ilk
+*.exe
+*.res
+AcceleratedCpp/AcceleratedCPP/Debug/AcceleratedCPP_manifest.rc
+*.manifest
+*.opensdf

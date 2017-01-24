@@ -37,11 +37,10 @@ int main()
 	cout << second << endl;
 	cout << first << endl;
 
-	// use some functions
 	char c = '@';
 	int n=10;
 	string z(n, c); // initial z with n copies of c, n is the number of characters, c is the character;
-	cout<< z << endl;
+	cout<< z;
 
 	system("pause");
 	return 0;
